@@ -1,4 +1,4 @@
-## Notes for Mozilla 5 min. call on Reproducibility
+## Notes for Mozilla Call on Reproducibility
 
 ### Creating the Guide
 
